@@ -1,0 +1,18 @@
+PODS:
+  - ECSlidingViewController (2.0.3)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+  - SVProgressHUD (HEAD based on 1.1.2)
+
+DEPENDENCIES:
+  - ECSlidingViewController (~> 2.0.3)
+  - SDWebImage (~> 3.7)
+  - SVProgressHUD (HEAD)
+
+SPEC CHECKSUMS:
+  ECSlidingViewController: e79fe856bfb1a99a39c995377a1943e50f7647eb
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+  SVProgressHUD: da7a49e789af645d9279ffbca62318945a832438
+
+COCOAPODS: 0.36.0.rc.1
