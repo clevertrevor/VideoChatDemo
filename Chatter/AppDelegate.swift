@@ -46,10 +46,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //Parse.enableLocalDatastore()    // https://parse.com/docs/ios_guide#localdatastore/iOS
         
         //This is Chatter's Production App ID
-        Parse.setApplicationId("AybI5OURRjD7HMoZ99KIggdFD4Gwt5CVcwUryF8R", clientKey: "g6S70HKQbQI94mn6K20XhgQL098imJYE0Y1xnvb7")
+        Parse.setApplicationId("", clientKey: "")
         
         //This is Chatter's Development App ID
-        //Parse.setApplicationId("cOsRze6ZwOqoQYKFuCl9Qh0OS2tXdvOywHT45rDw", clientKey: "Mw16xRI3x2vPDZnr5IwewgeR8MYBTXvC4kOBLOip")
+        //Parse.setApplicationId("", clientKey: "")
         
         PFFacebookUtils.initializeFacebook();
         
